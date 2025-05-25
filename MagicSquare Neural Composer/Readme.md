@@ -47,6 +47,9 @@ Magic squares are fascinating mathematical structures where the sums of numbers 
 - Dynamic MIDI files demonstrate creative potential linking mathematical properties with musical expression.
 - Visualizations provide an intuitive display of the generated sequences.
 
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/acf34f5d-007d-47db-842e-22c6bdc5fa39" />
+
+
 ## Code Structure Highlights
 
 - LSTM-based PyTorch model for sequence prediction.
