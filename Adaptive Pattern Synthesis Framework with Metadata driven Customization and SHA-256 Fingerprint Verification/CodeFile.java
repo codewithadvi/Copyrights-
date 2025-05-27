@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.nio.charset.StandardCharsets;
 
 /**
- * Author: Panchadip Bhattacharjee
+ * Author: Panchadip Bhattacharjee & Advithiya Duddu
  * Project: Adaptive Pattern Generation Engine with Thematic Styling and Cryptographic Fingerprinting
  * Description: This program generates artistic patterns based on DSL-like configuration, supports multiple themes,
  *              and includes SHA-256 fingerprinting to uniquely identify outputs for software copyright purposes.
@@ -12,6 +12,7 @@ import java.nio.charset.StandardCharsets;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.print("\n");
         System.out.println("=== Adaptive Pattern Generator v1.0 ===\n");
 
         // --- Pattern configuration (DSL-style input) ---
