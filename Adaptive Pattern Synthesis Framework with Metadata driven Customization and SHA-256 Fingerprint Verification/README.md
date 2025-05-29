@@ -1,10 +1,10 @@
-# 🎨 Thematic Styling & Cryptographic Fingerprinting for Original Software Artifacts
+#  Thematic Styling & Cryptographic Fingerprinting for Original Software Artifacts
 
-## 📜 Description
+##  Description
 
 This project presents an original Java-based modular artistic engine that renders visually distinct patterns using configurable themes, expressive metadata, and cryptographic fingerprinting. Designed for creative originality and authorship protection, the engine embeds metadata and generates a SHA-256 fingerprint that uniquely and verifiably identifies each artifact.
 
-## 💡 Key Innovations
+##  Key Innovations
 
 - **DSL-Style Configuration Syntax**  
   Accepts structured, human-friendly configurations to describe how each pattern should be rendered. Parameters like pattern type, theme, size, emotion, license, and version are all defined declaratively.
@@ -26,7 +26,7 @@ This project presents an original Java-based modular artistic engine that render
 - **SHA-256 Digital Fingerprinting**  
   Each pattern and its associated metadata are cryptographically hashed using SHA-256 to produce a secure digital signature. This fingerprint provides proof of authorship and originality, serving as a tamper-proof record for copyright protection.
 
-## 🧠 Why It Matters
+##  Why It Matters
 
 In a digital world flooded with generative outputs, distinguishing originality is becoming increasingly difficult. This project stands apart by offering:
 
@@ -42,7 +42,7 @@ In a digital world flooded with generative outputs, distinguishing originality i
 - **Ethical & Secure Software Art**  
   By embedding metadata and licensing info within every render, the engine supports ethical reuse while reinforcing intellectual property rights.
 
-## 🔒 Creative Authorship
+##  Creative Authorship
 
 This work was ideated, implemented, and authored in full by:
 
@@ -51,11 +51,11 @@ This work was ideated, implemented, and authored in full by:
 
 The project reflects original thought, artistic algorithm design, and unique functional synthesis of aesthetics and software engineering.
 
-## 🏷 License & Attribution
+##  License & Attribution
 
 The license is customizable and embedded directly in each generated output’s metadata. It supports commonly used formats such as **MIT** or **CC-BY-SA-4.0**, allowing flexibility in terms of rights declaration and public sharing. By default, copyright remains with the original authors.
 
-## 🧾 Proof of Origin
+##  Proof of Origin
 
 Each artistic output is signed using **SHA-256 fingerprinting**, ensuring the authenticity and originality of the work. These fingerprints act as **digital watermarks** that can be cited in copyright claims, archiving systems, or registries.
 
