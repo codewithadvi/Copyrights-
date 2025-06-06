@@ -8,7 +8,7 @@ import java.time.*;
 import java.lang.reflect.*;
 
 /**
- * Author: Panchadip Bhattacharjee
+ * Author: Gururaj H.L , Panchadip Bhattacharjee , Advithiya Duddu
  * Project: Dynamic Procedural Art Generator with Multi-Threading,
  *          Plugin Architecture & Encrypted Provenance Tracking
  *
