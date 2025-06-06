@@ -43,8 +43,9 @@ The engine produces the following upon execution:
 - Support exporting generated art to graphical formats such as SVG or PNG  
 - Expand plugin library with advanced algorithms using fractal geometry, cellular automata, and L-systems  
 
-## Authors
+## Authors:
 
+- Dr Gururaj H.L 
 - Panchadip Bhattacharjee  
 - Advithiya Duddu  
 
